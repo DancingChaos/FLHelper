@@ -1,0 +1,141 @@
+div {
+    font-family: Kurale;
+}
+
+body {
+    background-image: url("../img/background.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.ul a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.ul a:hover {
+    background: #ddd;
+    color: black;
+}
+
+.company-icon {
+    width: 60px;
+    height: 40px;
+    margin-left: 50%;
+}
+
+.user-img {
+    width: 35px;
+    height: 35px;
+}
+
+.customer-img {
+    width: 70px;
+    height: 70px;
+}
+
+.brand-img {
+    width: 60px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.wrapper {
+    min-width: 320px;
+    max-width: 1340px;
+    min-height: 10px;
+    max-height: 120px;
+    padding: 0 20px 0 20px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.search-res-item {
+    text-align: left;
+    font-size: 17px;
+    display: grid;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    color: #c0c0c9;
+    background: linear-gradient(#505050, #383838);
+    margin-bottom: 1%;
+    margin-right: 1%;
+    border-radius: 5px;
+}
+.request-item {
+    border-radius: 5px;
+    font-size: 20px;
+    display: grid;
+    padding: 1%;
+    color: #c0c0c9;
+    background: linear-gradient(#505050, #383838);
+    margin-top: 1%;
+    margin-right: 1%;
+    padding: 2vh;
+}
+
+.job-item {
+    border-radius: 5px;
+    font-size: 20px;
+    display: grid;
+    grid-template-columns: 10fr 1fr;
+    padding: 1%;
+    color: #c0c0c9;
+    background: linear-gradient(#505050, #383838);
+    margin-top: 1%;
+    margin-right: 1%;
+    padding: 2vh;
+}
+
+.filter-item {
+    border-radius: 5px;
+    display: grid;
+    font-size: 20px;
+    grid-template-columns: 10fr 1fr;
+    padding: 1%;
+    margin-top: 1%;
+    color: #c0c0c9;
+    background: linear-gradient(#505050, #383838);
+}
+
+.filter-input {
+    font-size: 15px;
+}
+
+.input-style {
+    font-size: 15px;
+    color: #3d3c3c;
+    background-color: #b1b1b9;
+    border-radius: 5px;
+}
+
+.btn-design {
+    border-radius: 5px;
+    font-family: Kurale;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    margin-left: 1%;
+    margin-top: 5px;
+    background-color: #9659af;
+}
+
+.p-style {
+    font-size: 20px;
+    color: lightseagreen;
+}
+
+.p-padding {
+    padding-top: 5vh;
+}
+
+.work-field {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+

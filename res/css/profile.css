@@ -1,0 +1,65 @@
+div{
+    font-family: Kurale;
+}
+body{
+    background-image:url("../img/background.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.ref-style{
+    width: 130px;
+}
+.user-icon-img{
+    width: 35px;
+    height: 35px;
+}
+.user-img{
+    width: 150px;
+    height: 150px;
+}
+.brand-img{
+    width: 60px;
+    height: 40px;
+    margin-top: 10px;
+}
+.navbar-main {
+    background-color: #262626;
+}
+hr{
+    border-color: darkgray;
+}
+.span-style{
+   width:50px;
+   height: 50%;
+   margin: 0 auto;
+}
+.connect-style{
+    color: #ad5ed0;
+    background-color: transparent;
+    border: none;
+    padding-left: 10%;
+    float: right;
+}
+.block-item {
+    text-align: left;
+    font-size: 20px;
+    display: grid;
+    padding: 1%;
+    color: #c0c0c9;
+    background: linear-gradient(#505050, #383838);
+    margin-top: 1%;
+    margin-right: 1%;
+    padding: 1vh;
+    border-radius: 5px;
+}
+.company-icon {
+    width: 60px;
+    height: 40px;
+    margin-left: 50%;
+}
+.work-field {
+    padding-top: 2vh;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
